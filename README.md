@@ -23,7 +23,7 @@ Este repositório contém projetos que demonstram minhas habilidades em:
 
 📧 Email: [diocardosodev@gmail.com](mailto:diocardosodev@gmail.com)  
 💼 LinkedIn: [linkedin.com/diogo-tcardoso](https://linkedin.com/diogo-tcardoso)  
-🚀 Portfólio: [seusite.com](https://seusite.com)
+🚀 Portfólio: [Diogo Cardoso](https://diogo-tcardoso.github.io/diogo-portfolio/)
 
 ---
 
