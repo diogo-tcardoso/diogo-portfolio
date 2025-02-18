@@ -15,9 +15,9 @@ Este repositório contém projetos que demonstram minhas habilidades em:
 | Nome do Projeto | Tecnologias | Descrição |
 |----------------|------------|-----------|
 | **Landing Page** | HTML, CSS, JS | Página inicial responsiva |
-| **To-Do App** | React.js | Aplicação de lista de tarefas |
+| **Summary Component** | HTML, CSS | Landing page estática do Frontend Mentor |
 | **Pokédex** | React.js, API | Busca de Pokémon com PokéAPI |
-| **E-commerce** | React.js, Tailwind | Loja virtual com carrinho |
+| **Acordeon** | HTML, CSS, Javascript | Acordeon criado para pratica de CSS e manipulação de DOM |
 
 ## 📬 Contato
 
