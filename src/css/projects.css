@@ -45,8 +45,6 @@
     padding: 0.5rem;  
     max-width: 19rem;
     height: 23rem;
-    transition: 0.3s ease;
-    transition: 0.3s ease;
 }
 
 .container .projects .project .project-exemple img {
@@ -54,13 +52,23 @@
     height: 12rem;
 }
 
-.container .projects .project .project-exemple:hover {
-    transform: scale(1.1);
-    border-radius: 1rem;
-}
-
-.container .projects .project .project-exemple h5 {
+.container .projects .project .project-exemple .links {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
     font-size: 1rem;
     font-weight: 700;
     margin-top: 0.5rem;
+}
+
+.container .projects .project .project-exemple .links .site,
+.container .projects .project .project-exemple .links .github {
+    transition: 0.3s ease;
+    transition: 0.3s ease;
+}
+
+.container .projects .project .project-exemple .links .site:hover,
+.container .projects .project .project-exemple .links .github:hover {
+    transform: scale(1.1);
+    border-radius: 1rem;
 }
