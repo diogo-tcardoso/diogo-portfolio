@@ -20,16 +20,30 @@
     }
 
     .container .projects {
-        margin-left: -2rem;
         gap: -1rem;
     }
 
-    .container .projects .project .project-list {
-        margin-bottom: 200px;
+    .container .projects .project h2 {
+        margin-left: -20px;
+    }
+
+    .container .projects .project .project-list{
+        display: block;
+        flex-direction: column;
+        width: 350px;
+        margin-left: -20px;
     }
 
     .footer .end-page {
         margin-left: 2rem;
+    }
+
+    .footer .end-page h2{
+        font-size: 1rem;
+    }
+
+    .footer .end-page .redes-sociais{
+        font-size: 1rem;
     }
 }
 
